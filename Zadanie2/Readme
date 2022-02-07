@@ -1,0 +1,8 @@
+Hello!
+
+Here is my selenium tests in python. Of course, I know, it really needs refactor :)
+
+But, if you want to run this tests:
+1. Install selenium.
+2. Install behave, and add plugin gherkin
+3. In terminal run this: behave features/
